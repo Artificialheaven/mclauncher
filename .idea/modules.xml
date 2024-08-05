@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/battery.iml" filepath="$PROJECT_DIR$/.idea/battery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mclauncher.iml" filepath="$PROJECT_DIR$/.idea/mclauncher.iml" />
     </modules>
   </component>
 </project>
